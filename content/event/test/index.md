@@ -11,7 +11,7 @@ publishDate: 2021-03-05T14:43:24.100Z
 draft: false
 featured: false
 image:
-  filename: 8bdlzzwm9_8.jpg
+  filename: ouhvyy9jjsk.jpg
   focal_point: Smart
   preview_only: false
 ---
