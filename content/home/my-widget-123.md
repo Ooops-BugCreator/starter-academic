@@ -9,5 +9,6 @@ design:
   background:
     text_color_light: false
     image_darken: 0
+    image: /static/media/8bdlzzwm9_8.jpg
 ---
 # this is a test homepage!
