@@ -3,9 +3,9 @@ title: "111"
 publication_types:
   - "2"
 draft: false
-featured: true
+featured: false
 image:
-  filename: zfwfrz4rmcc.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 date: 2021-03-06T01:35:35.525Z
