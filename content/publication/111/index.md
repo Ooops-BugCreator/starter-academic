@@ -1,7 +1,7 @@
 ---
 title: "111"
 publication_types:
-  - "0"
+  - "4"
 draft: false
 featured: false
 image:
