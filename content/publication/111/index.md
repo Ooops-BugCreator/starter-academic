@@ -3,7 +3,7 @@ title: "111"
 publication_types:
   - "2"
 draft: false
-featured: false
+featured: true
 image:
   filename: zfwfrz4rmcc.jpg
   focal_point: Smart
