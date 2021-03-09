@@ -20,6 +20,10 @@ draft: false
 # Show this page in the Featured widget?
 featured: false
 
+reading_time: true  # Show estimated reading time?
+share: false  # Show social sharing links?
+profile: false  # Show author profile?
+
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
@@ -103,3 +107,5 @@ Wowchemy and its templates come with **automatic day (light) and night (dark) mo
 Copyright 2016-present [George Cushen](https://georgecushen.com).
 
 Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md) license.
+
+{{% staticref "/post/getting-started/getting-started.zip" %}}Download my CV{{% /staticref %}}
