@@ -5,7 +5,7 @@
 
 [[main]]
   name = "主页"
-  url = "#home"
+  url = "#hero"
   weight = 10
 
 [[main]]
@@ -30,7 +30,7 @@
 
 [[main]]
   name = "相册"
-  url = "#contact"
+  url = "#album"
   weight = 60
 
 # Link to a PDF of your resume/CV from the menu.
